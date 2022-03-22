@@ -28,6 +28,12 @@ Start the server
   yarn dev
 ```
 
+Start testing
+
+```bash
+  yarn cypress:open
+```
+
 
 ## ✨Tech Used
 
